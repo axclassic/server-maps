@@ -1,0 +1,26 @@
+EqEmulator Maps (Started May 4th, 2009)
+-----------------------------------------------------
+
+==5/05/2009==
+Angelox: Rest of bulk upload of files as of package posted on March 24th 2009.
+Please update the azone.ini file too!
+Here's a list of Maps already detailed;
+tox
+tutorialb
+anguish
+lakeofillomen
+thundercrest
+skyfire
+gfaydark
+frontiermtns
+eastwastes
+najena
+crushbone
+unrest
+hollowshade
+crystal
+greatdivide
+soldunga
+soldungb
+kerraridge (This one is new, you should get it)
+    
