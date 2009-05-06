@@ -3,7 +3,7 @@ EqEmulator Maps (Started May 4th, 2009)
 
 ==5/06/2009==
 Asram: Added placeable object to airplane, akheva, cazicthule, qcat and qeytoqrg server maps
-Asram: Added placeable objects to befallen, cauldron, charasis, chardok, chardokb, citymist
+Asram: Added placeable objects to befallen, cauldron, charasis, chardok, chardokb, citymist, butcher
 
 ==5/05/2009==
 Angelox: Rest of bulk upload of files as of package posted on March 24th 2009. (r3)
