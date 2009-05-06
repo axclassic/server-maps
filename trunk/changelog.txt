@@ -2,7 +2,7 @@ EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
 ==5/05/2009==
-Angelox: Rest of bulk upload of files as of package posted on March 24th 2009.
+Angelox: Rest of bulk upload of files as of package posted on March 24th 2009. (r3)
 Please update the azone.ini file too!
 Here's a list of Maps already detailed;
 tox
@@ -23,4 +23,8 @@ greatdivide
 soldunga
 soldungb
 kerraridge (This one is new, you should get it)
-    
+
+Cavedude: Added some missing water maps (r8)
+
+Asram: Added Erudin entrance placeable object to tox (r6)
+Asram: Updated maps for placeable objects: lavastorm, paineel, tenebrous, warrens, steamfont, and sro (r7-10)  
