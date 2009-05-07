@@ -1,5 +1,7 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/7/2009==
+Asram: Added placeable objects to maps for beholder, blackburrow, bloodfields, broodlands, burningwood, cabeast, cabwest, cobaltscar, commons, dalnir, dawnshroud, droga, and kedge
 
 ==5/06/2009==
 Asram: Added placeable object to airplane, akheva, cazicthule, qcat and qeytoqrg server maps
