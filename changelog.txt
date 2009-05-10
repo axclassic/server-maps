@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/10/2009==
+Angelox: Re-did Tutorialb 
+
 ==5/7/2009==
 Asram: Added placeable objects to maps for beholder, blackburrow, bloodfields, broodlands, burningwood, cabeast, cabwest, cobaltscar, commons, dalnir, dawnshroud, droga, and kedge
 
