@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/11/2009==
+Angelox: Re-did Gfaydark 
+
 ==5/10/2009==
 Angelox: Re-did Tutorialb 
 
