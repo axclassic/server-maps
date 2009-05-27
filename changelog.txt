@@ -1,5 +1,7 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/11/2009==
+Angelox: Re-did Najena 
 
 ==5/17/2009==
 Asram: Added placeoble objects pathing for akanon, arena, bothunder, everfrost, mistmoore, misty, nektulos, netherbian, and nro.
