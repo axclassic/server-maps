@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/29/2009==
+Asram: Re-did Lavastorm in hopes of improving fear pathing
+
 ==5/11/2009==
 Angelox: Re-did Najena 
 
