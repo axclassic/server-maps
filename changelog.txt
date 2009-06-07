@@ -1,5 +1,9 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+
+==6/07/2009==
+Angelox: Re-did Frozeshadow
+
 ==5/29/2009==
 Asram: Re-did Lavastorm in hopes of improving fear pathing
 
