@@ -1,5 +1,7 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==6/08/2009==
+Angelox: Re-did West Karana
 
 ==6/07/2009==
 Angelox: Re-did Frozeshadow
