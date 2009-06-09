@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==6/09/2009==
+Angelox: Updated North and East Karana
+
 ==6/08/2009==
 Angelox: Re-did West Karana
 
