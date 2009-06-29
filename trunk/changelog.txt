@@ -1,6 +1,9 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
+==6/29/2009==
+cavedude: Updated bazaar.
+
 ==6/28/2009==
 cavedude: Added the first of Derision's path maps (bazaar, poknowledge, ssratemple, and unrest)
 
