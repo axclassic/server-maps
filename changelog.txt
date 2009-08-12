@@ -1,6 +1,9 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
+==812/2009==
+cavedude: Added Old maps folder and included previous versions of arena, bazaar, lavastorm, and nektulos.
+
 ==6/29/2009==
 cavedude: Updated bazaar.
 
