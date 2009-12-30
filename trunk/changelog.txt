@@ -1,5 +1,7 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==12/30/2009==
+Trevius: Added placeable objects to maps for crescent, dreadspire, freeporttemple, roost, stonehive, and takishruins
 
 ==10/25/2009==
 leslamarch: Updated mistmoore.path map.
