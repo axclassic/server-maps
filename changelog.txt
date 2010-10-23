@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==10/23/2010==
+Derision: Added hateplane.path from Brewhaus.
+
 ==12/30/2009==
 Trevius: Added placeable objects to maps for crescent, dreadspire, freeporttemple, roost, stonehive, and takishruins
 
