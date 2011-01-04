@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==1/04/2011==
+Happy New Year! If you don't see any NPCs, set all NPC z-coords to 3, then #summon and #spawnfix :).
+
 ==10/23/2010==
 Derision: Added hateplane.path from Brewhaus.
 
