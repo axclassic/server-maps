@@ -1,5 +1,8 @@
-EqEmulator Maps (Started May 4th, 2009)
+AXClassic Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==10/07/2017==
+Angelox: Disabled Kael .path map as it crashes the zone.
+
 ==1/04/2011==
 Happy New Year! If you don't see any NPCs, set all NPC z-coords to 3, then #summon and #spawnfix :).
 
