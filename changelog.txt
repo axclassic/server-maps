@@ -1,5 +1,8 @@
 AXClassic Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==01/03/2018==
+Angelox: Added airplane path map.
+
 ==10/07/2017==
 Angelox: Disabled Kael .path map as it crashes the zone.
 
